@@ -37,7 +37,7 @@ const pets = [
         name: 'Rover',
         breed: 'Pitbull',
         age: 1,
-        owner: 'John',
+        owner: 'Jake',
         telephone: '555-555-5555',
         appointments: [
             {
